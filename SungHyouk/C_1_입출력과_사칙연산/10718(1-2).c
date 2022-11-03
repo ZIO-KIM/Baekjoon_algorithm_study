@@ -1,3 +1,4 @@
+/* This problem is removed from "solving step by step" */ 
 #include <stdio.h>
 
 int main(void) {
