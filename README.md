@@ -19,6 +19,7 @@
 #### directory 1: CPP_bronze
 
 브론즈 문제를 CPP로 풀어보자.  
+현재, 예제 몇 개를 따라서 풀어 봄 (문제번호_브론즈.cpp의 형식으로 저장)  
 아직 자력으로 홀로서지 못하는 수준 - CPP 기초를 더 공부하고 도전할 예정  
 
 ### 2. Python
@@ -36,3 +37,8 @@ solved.ac에 공개된 새싹/클래스 별 문제를 python으로 푸는 중 �
 #### directory 3: solve_step_by_step
 
 백준에 단계 별로 풀어보기를 python으로 푸는 중으로 현재 python_bronze에 브론즈 4를 푸느라 업데이트 되고 있지 않음  
+
+##### sub-directories: C_로 시작
+
+백준에 단계 별로 풀어보기를 C로 풀어 보는 중으로 현재 python_bronze에 브론즈 4를 푸느라 업데이트 되고 있지 않지만,  
+과연 C로 푸는 것이 가능할까 싶기도 함...  
