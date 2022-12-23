@@ -12,7 +12,7 @@
 
 잔디를 심어봅시다 ~~ ! :)  
 
-## Explanation for each directories - Sunghyouk
+## Explanation for each directories: Sunghyouk
 
 ### 1. CPP
 
@@ -21,6 +21,11 @@
 브론즈 문제를 CPP로 풀어보자.  
 현재, 예제 몇 개를 따라서 풀어 봄 (문제번호_브론즈.cpp의 형식으로 저장)  
 아직 자력으로 홀로서지 못하는 수준 - CPP 기초를 더 공부하고 도전할 예정  
+
+#### directory 2: CPP_codeup_basic
+
+코드업 기초 100제를 CPP로 풀어보자.  
+기초 100제는 정말 기초적인 입출력 방법부터 있어서 쉽게 하나씩 풀어나가는 중  
 
 ### 2. Python
 
