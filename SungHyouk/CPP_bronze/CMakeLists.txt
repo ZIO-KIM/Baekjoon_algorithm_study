@@ -3,6 +3,4 @@ project(CPP_bronze)
 
 set(CMAKE_CXX_STANDARD 14)
 
-include_directories(3)
-
-add_executable(CPP_bronze)
+add_executable(CPP_bronze 3/10250.cpp)
