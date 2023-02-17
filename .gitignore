@@ -1,7 +1,11 @@
 .DS_STORE
 .vscode/*.*
+
 SungHyouk/BarkingDog/CMakeLists.txt
+SungHyouk/BarkingDog/.idea/
+
 SungHyouk/CPP_bronze/cmake-build-debug/
+SungHyouk/CPP_bronze/.idea/
 SungHyouk/CPP_bronze/CMakeLists.txt
 
 build/
