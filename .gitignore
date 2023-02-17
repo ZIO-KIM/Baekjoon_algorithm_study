@@ -4,5 +4,5 @@ SungHyouk/BarkingDog/CMakeLists.txt
 SungHyouk/CPP_bronze/cmake-build-debug/*.*
 SungHyouk/CPP_bronze/CMakeLists.txt
 
-Baekjoon_algorithm_study/build/*.*
+build/*.*
 
