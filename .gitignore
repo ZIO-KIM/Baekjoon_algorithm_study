@@ -1,5 +1,6 @@
 .DS_STORE
 .vscode/*.*
+.cache/
 
 SungHyouk/BarkingDog/CMakeLists.txt
 SungHyouk/BarkingDog/.idea/
