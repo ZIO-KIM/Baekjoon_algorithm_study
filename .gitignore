@@ -9,5 +9,10 @@ SungHyouk/CPP_bronze/cmake-build-debug/
 SungHyouk/CPP_bronze/.idea/
 SungHyouk/CPP_bronze/CMakeLists.txt
 
+SungHyouk/CPP_solved_ac_class/.idea/
+SungHyouk/CPP_solved_ac_class/cmake-build-debug/
+SungHyouk/CPP_solved_ac_class/CMakeLists.txt
+SungHyouk/CPP_solved_ac_class/main.cpp
+
 build/
 
