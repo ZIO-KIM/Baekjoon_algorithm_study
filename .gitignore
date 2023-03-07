@@ -14,5 +14,8 @@ SungHyouk/CPP_solved_ac_class/cmake-build-debug/
 SungHyouk/CPP_solved_ac_class/CMakeLists.txt
 SungHyouk/CPP_solved_ac_class/main.cpp
 
+.cache/
+.empty/
+.vscode/
 build/
 
